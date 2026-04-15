@@ -33,5 +33,6 @@ public class DiceRollApp {
         System.out.println("This is the four-counter: "+fourCounter);
         System.out.println("This is the six-counter: "+sixCounter);
         System.out.println("This is the seventh-counter"+sevenCounter);
+
     }
 }
